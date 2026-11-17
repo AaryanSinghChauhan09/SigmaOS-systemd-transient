@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-transient"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-transient component"
+description = "systemd transient"
 upstream = []
 
 [contract]
